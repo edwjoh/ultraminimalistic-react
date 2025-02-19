@@ -1,6 +1,6 @@
 # Ultra Minimal React + TypeScript Starter
 
-A super lightweight and stripped-down React + TypeScript starter. No bs ❌
+A super lightweight and stripped-down React + TypeScript starter.
 
 ## 🔥 Features
 
