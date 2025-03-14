@@ -6,9 +6,9 @@ A super lightweight and stripped-down React + TypeScript + Tailwind starter.
 
 -   React + TypeScript
 -   Vite for fast builds
+-   Tailwindcss
 -   Minimal dependencies
 -   Clean, simple, and to the point
--   With css!
 
 ## 🛠 Setup
 
