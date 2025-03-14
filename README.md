@@ -1,6 +1,6 @@
-# Ultra Minimal React + TypeScript Starter
+# Ultra Minimal React + TypeScript + Tailwind Starter
 
-A super lightweight and stripped-down React + TypeScript starter. No bs ❌
+A super lightweight and stripped-down React + TypeScript + Tailwind starter.
 
 ## 🔥 Features
 
@@ -8,6 +8,7 @@ A super lightweight and stripped-down React + TypeScript starter. No bs ❌
 -   Vite for fast builds
 -   Minimal dependencies
 -   Clean, simple, and to the point
+-   With css!
 
 ## 🛠 Setup
 
