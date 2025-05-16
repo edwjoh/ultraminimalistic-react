@@ -1,20 +1,20 @@
 # Ultra Minimal React + Tailwind Starter
 
-A super lightweight and stripped-down React.js + Tailwind starter.
+A super lightweight and stripped-down React.js + Tailwind starter. #Screwboilerplate
 
-## 🔥 Features
+## Features
 
 -   React + JavaScript
 -   Vite for fast builds
 -   Tailwindcss
 -   Minimal dependencies
--   Clean, simple, and to the point
+-   Clean, simple, straight to the point
 
-## 🛠 Setup
+## Setup
 
 ```bash
 git clone https://github.com/edwjoh/ultraminimalistic-react.git
 cd ultraminimalistic-react
-npm i
+npm install
 npm run dev
 ```
