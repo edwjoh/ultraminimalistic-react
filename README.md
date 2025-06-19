@@ -1,6 +1,6 @@
 # Ultra Minimal React + Tailwind Starter
 
-A super lightweight and stripped-down React + Tailwind starter. #screwboilerplate
+A super lightweight and stripped-down React + Tailwind starter.
 
 ## Features
 
