@@ -6,9 +6,9 @@ A super lightweight and stripped-down React + Tailwind starter.
 
 -   React + JavaScript
 -   Vite for fast builds
--   Tailwindcss
+-   Tailwind
 -   Minimal dependencies
--   Clean, simple, straight to the point
+-   Cleaaaan
 
 ## Setup
 
