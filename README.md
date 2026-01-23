@@ -1,20 +1,20 @@
 # Ultra Minimal React + Tailwind Starter
 
-A super lightweight and stripped-down React + Tailwind starter.
+A super lightweight and stripped-down React + Tailwind starter if you hate files.
 
-## Features
+## Rundown
 
 -   React + JavaScript
--   Vite for fast builds
+-   Vite
 -   Tailwind
 -   Minimal dependencies
--   Cleaaaan
 
 ## Setup
 
 ```bash
-git clone https://github.com/edwjoh/ultraminimalistic-react.git
-cd ultraminimalistic-react
+mkdir project
+cd project
+git clone https://github.com/edwjoh/ultraminimalistic-react.git .
 npm install
 npm run dev
 ```
