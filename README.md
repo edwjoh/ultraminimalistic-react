@@ -1,9 +1,6 @@
 # Ultra Minimal React + Tailwind Starter
 
 A super lightweight and stripped-down React + Tailwind starter if you hate files.
-
-## Rundown
-
 -   React + JavaScript
 -   Vite
 -   Tailwind
